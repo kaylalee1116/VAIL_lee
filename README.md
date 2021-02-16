@@ -20,3 +20,6 @@ The real-world problem that I am thinking about is mobility for the vision-impai
 
 # **Day 5 (02/12):**
 Today I was very confused because I felt like there was a massive disconnect between the material and the action item. I did the readings, but I still don't have a great grasp on Neural Networks let alone know how to create one for myself with no example. The articles that we are reading are certainly informative, but I feel like I am lacking any actual instruction so I put together what I could but I know that it is actually completely incorrect and will never work. I downloaded the chrome extension, but it isn't working–much like most of the action items that I have done this week unfortunately. I feel completely lost and I don't think I have really learned anything that I can apply to my code and when I look at some of my peers they seem to have a lot more background than I do. This is to be expected I suppose as I have 0 experience with AI but I feelt very defeated and unsure about the course of this training period. Here is my notebook, hopefully you can see it https://www.kaggle.com/kaylalee1116/notebook32cdc72033/edit
+
+# **Day 6 (02/13):**
+Today I had much better luck creating my first neural network. I'm still not entirely confident I understand the material well, but this will come with time I suppose!
