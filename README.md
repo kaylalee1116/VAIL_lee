@@ -21,5 +21,9 @@ The real-world problem that I am thinking about is mobility for the vision-impai
 # **Day 5 (02/12):**
 Today I was very confused because I felt like there was a massive disconnect between the material and the action item. I did the readings, but I still don't have a great grasp on Neural Networks let alone know how to create one for myself with no example. The articles that we are reading are certainly informative, but I feel like I am lacking any actual instruction so I put together what I could but I know that it is actually completely incorrect and will never work. I downloaded the chrome extension, but it isn't working–much like most of the action items that I have done this week unfortunately. I feel completely lost and I don't think I have really learned anything that I can apply to my code and when I look at some of my peers they seem to have a lot more background than I do. This is to be expected I suppose as I have 0 experience with AI but I feelt very defeated and unsure about the course of this training period. Here is my notebook, hopefully you can see it https://www.kaggle.com/kaylalee1116/notebook32cdc72033/edit
 
-# **Day 6 (02/13):**
+# **Day 8 (02/13):**
 Today I had much better luck creating my first neural network. I'm still not entirely confident I understand the material well, but this will come with time I suppose!
+
+# **Day 9 (02/13):**
+*Question 1:* The game used my initial acceptances and rejects in the ML algorithm to automate my hiring process
+*Question 2:* The Allegheny Family Screening Tool screened families to see if a child should be removed from an abusive household. This in theory is a good idea, but the data set used reflected societal prejudices relating to race and socioeconomic status. Nevertheless they do a good job of counteracting this bias by only using it as a advisory tool rather than an end all be all decider. I think a new and less biased data set should be used to make the algorithm less biased. I chose this model because I think it does a good job highlighting the potential harm that ML can inflict on us.
