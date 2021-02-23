@@ -30,3 +30,6 @@ Today I had much better luck creating my first neural network. I'm still not ent
 
 # **Day 10 (02/17):**
 CNNs begin with convolution and pooling layers that break down the images and analyze them separately which then isi connected to a fully connected layer that take the output of the previous convlution and puuling layers and makes a prediction. Fully connected Neural networks–which are different from fully connect layers in CNNs–mirror a class NN in which every neuron is connected to every neuron in the subsequent later. CNNs are useful for computer vision whereas Fully connected neural networks would require an egregious number of connections given the complexity of images. Real world applications of CNNs take the form of tracking experiment progress. In CNNs the convolution layer is a filter that scans the image and creats a feature map. The pooling layer tends to downsize the sample and the fully connected layer lays out the infomation into a vector that can then be used for predictions
+
+# **Day 15 (02/22):** 
+I'm not sure where the responses for the other days went but these past few days i've been struggling to get my epochs to run quickly, meaning that my code is running for hours to run all of the epochs. More often than not it stops running...
