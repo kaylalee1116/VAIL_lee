@@ -36,3 +36,6 @@ I'm not sure where the responses for the other days went but these past few days
 
 # **Day 16 (02/23):** 
 It seems like an advantage of using ReLu as a hidden layer activation function over to Tanh and Sigmoid function is that unlike those functions, ReLu doesn't suffer from the vanishing gradient problem which allows the models to learn faster and perform more efficiently. It is beneficial to use functions like ReLu when we want any values that are less than zero to be processed as 0 no matter the size.
+
+# **Day 17 (02/24):** 
+Today's tutorial was really interesting and gave me good insight on what each line of code means.
