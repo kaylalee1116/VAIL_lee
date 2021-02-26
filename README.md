@@ -39,3 +39,7 @@ It seems like an advantage of using ReLu as a hidden layer activation function o
 
 # **Day 17 (02/24):** 
 Today's tutorial was really interesting and gave me good insight on what each line of code means.
+
+
+# **Day 18 (02/25):** 
+I was really busy today so I wasn't able to do all of the work
