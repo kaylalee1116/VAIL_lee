@@ -40,6 +40,5 @@ It seems like an advantage of using ReLu as a hidden layer activation function o
 # **Day 17 (02/24):** 
 Today's tutorial was really interesting and gave me good insight on what each line of code means.
 
-
-# **Day 18 (02/25):** 
-I was really busy today so I wasn't able to do all of the work
+# **Day 2 (02/25):** 
+NLP models lie GPT-2 are extremely versatile models that have many potential implications for our future. While GPT-2's capacity to create original text through algorithms could help greatly with speech recognition systems and AI writing assistants, it could also be used to impersonate people online, create misleading new aricles, and signficantly increase fake content online. For these reasons, we must be very careful when implementing these models into ML projects.
